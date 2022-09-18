@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Dancing+Script:wght@500;700&family=Taviraj:ital,wght@0,400;0,700;0,900;1,300;1,500&family=Yantramanav:wght@300;500;900&display=swap');
+
+@font-face {
+    font-family: Facefont free;
+    src: url(../fonts/TallDarkAndHandsome-Condensed.woff2)format("woff2"), url(../fonts/TallDarkAndHandsome-Condensed.woff)format("woff");
+}
+body{
+    font-family: Traviraj;
+    font-weight: 400;
+}
+h1{
+    font-family: Facefont free;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 2px 2px 5px;
+}
+img{
+    padding: 10px;
+}
+.text{
+    font-family: Yantramanav,;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 2px;
+}
+.Lesson{
+    font-family: Taviraj;
+    font-weight: 400;
+    font-style: italic;
+    text-transform: uppercase;
+    margin: 2px;
+
+}
+.word{
+    font-family: Taviraj;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin: 2px;
+
+}
+.text,.Lesson,.word{
+    padding-bottom: 10px;
+
+}
+.Martin{
+    font-family: Facefont free;
+    font-size: 20px;
+    text-decoration: underline;
+    color: orangered;
+}
+.optim{
+    color: darkgoldenrod;
+}
+h2{
+    font-family: Facefont free;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 2px 2px 5px coral;
+    padding: 6px;
+}
+a{
+    font-family: Taviraj;
+    font-weight: 500;
+    color: blue;
+    
+}
+.posit,.good{
+    font-family: Taviraj;
+    font-weight: 700;
+    font-style: italic;
+    text-indent: 10px;
+    padding-right: 500px;
+}
+
+.proza,.proza-2{
+    font-family:Dancing Script;
+    font-weight: 700;
+    font-size: 30px;
+    padding-left: 500px;
+    padding-bottom: 20px;
+    
+
+}
+h3{
+    font-family: Yantramanav,;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.fin{
+    font-family: Facefont free;
+    font-size: 30px;
+    text-decoration: underline;
+    padding-right: 400px;
+    padding-bottom: 20px;
+    color: red;
+}
+.text_1{
+    color: blueviolet;
+}
+.text{
+    color: brown;
+}
+.Lesson{
+    color: rosybrown;
+}
+.word{
+    color: slateblue;
+}
+
+
